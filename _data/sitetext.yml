@@ -118,6 +118,10 @@ contact:
     
 footer:
     legal: "Privacy Policy"
-
+    social:
+      - url: https://twitter.com/bbrossiter
+        icon: "fab fa-twitter"
+      - url: https://www.linkedin.com/in/brianrossiter
+        icon: "fab fa-linkedin-in"
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
