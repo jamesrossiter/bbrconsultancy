@@ -13,7 +13,7 @@
     <div class="row">
         {% for partner in site.data.sitetext.partners.list %}
         <div class="col-lg-12">
-            <h5 class="service-heading">{{ partner.title }} <a href="{{partner.link}}">{{partner.link}}</a></h5>
+            <h5 class="service-heading"><a href="{{partner.link}}" target="_blank">{{ partner.title }}</a></h5>
             <div class="text-muted">{{ partner.desc | markdownify }}</div>
         </div>
         {% endfor %}

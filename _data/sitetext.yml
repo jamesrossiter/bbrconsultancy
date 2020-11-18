@@ -88,16 +88,16 @@ partners:
     section: partners
     list:
       - title: "Collaboratives.co.uk"
-        link: "www.collaboratives.co.uk"
+        link: "http://www.collaboratives.co.uk"
         desc: "A group of experienced educational professionals who have come together to offer a range of support programmes for developing collaborations and partnership working."
       - title: "Design for Education"
-        link: "www.designforeducation.co.uk"
+        link: "https://www.designforeducation.co.uk"
         desc: "Design for Education is one of the UK’s leading design agencies specialising in the education sector. Their main focus is helping schools to create a ‘brand identity’ in the most cost effective and efficient way possible."
       - title: "HC Associates Ltd – HR solutions for schools"
-        link: "www.hcassociates.co.uk"
+        link: "http://www.hcassociates.co.uk"
         desc: "HC Associates Ltd are an HR consultancy business providing HR consultancy support and training to Schools/Academies and Children’s Services. They also offer a subscription based HR handbook that is constantly updated in line with changes to legislation and case law. This gives access to the complete set of up to date HR documents that you need in your HR toolkit."
       - title: "Karen Ardley Associates"
-        link: "www.karenardley.com"
+        link: "https://karenardley.com"
         desc: "KAA is a dynamic, creative leadership and training consultancy. They design and deliver professional development programmes for leaders and people involved with providing or supporting learning, worldwide."
 
 portfolio:
