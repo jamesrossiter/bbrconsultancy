@@ -1,0 +1,25 @@
+<section class="page-section" id="{{ site.data.sitetext.media.section | default: "media" }}">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">{{ site.data.sitetext.media.title | default: "Media" }}</h2>
+        </div>
+    </div>
+    <div class="row">
+        <h5>Articles</h5>
+        {% for media in site.data.sitetext.media.listArticles %}
+        <div class="col-lg-12">
+            <h6 class="service-heading"><a href="{{media.link}}">{{ media.title | markdownify }}</a></h6>
+            <div class="text-muted">{{ media.desc | markdownify }}</div>
+        </div>
+        {% endfor %}
+        <h5>Images</h5>
+        {% for media in site.data.sitetext.media.listImages %}
+        <div class="col-lg-12">
+            <h6 class="service-heading"><a href="{{media.link}}">{{ media.title | markdownify }}</a></h6>
+            <div class="text-muted">{{ media.desc | markdownify }}</div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</section>

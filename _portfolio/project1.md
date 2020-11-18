@@ -1,18 +1,26 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: National
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: National
+  subtitle: 
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+#### DfE & DCSF ‘Secondary Schools Headteacher Reference Group’ (11.2002 to 7.2011)
+Member of this advisory group hosted by the Director General of Schools engaging with the early development of Government policy, Ministers and Secretaries of State for Education. Targeted respondent for feedback on proposed national policy developments to Ministers & officials.
+#### DfE Consultation Workshops – School funding
+Contributor.
+#### DCSF, 14 -19 Reform, 15 National Conferences
+Panellist/contributor to each conference.
+#### DCSF/DoH – Children’s Trust Commissioning conference
+Contributor.
+#### School Report Card – national working group
+Member.
+#### Prime Minister’s Delivery Unit review of Level 2 qualifications at 19
+Contributor.
+#### National Audit of Schools Workforce
+Member of the DfES/NAO working group.
+#### Member of the MEG Central Consultative Group
+Member.
+#### International links (British Council/LOCOG, “Dreams & Teams” – Brazil programme)
+Project leader.

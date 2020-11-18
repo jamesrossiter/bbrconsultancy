@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Regional
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Regional
+  subtitle: 
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+#### The University of Nottingham
+(Lay) Council Member – including supporting the development of the Nottingham University Samworth Academy.
+#### Nottinghamshire Education Business Alliance Board
+Former Director and Chair of N.E.B.A. (an Education Business Partnership).
+#### 14 to 19 Partnership Board
+Member – LA/FE sector-wide strategic planning/delivery board.
+#### Local Strategic Partnership group and the North Notts Learning Partnership Boards of Directors
+Member.
+#### Colne Valley Trust
+Former director of this community regeneration company.

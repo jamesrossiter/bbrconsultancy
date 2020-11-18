@@ -1,0 +1,22 @@
+<section class="page-section" id="{{ site.data.sitetext.partners.section }}">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">{{ site.data.sitetext.partners.title }}</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12 mx-auto ">
+            <div class="large text-muted">{{ site.data.sitetext.partners.text | markdownify }}</div>
+        </div>
+    </div>
+    <div class="row">
+        {% for partner in site.data.sitetext.partners.list %}
+        <div class="col-lg-12">
+            <h5 class="service-heading">{{ partner.title }} <a href="{{partners.link}}">{{partner.link}}</a></h5>
+            <div class="text-muted">{{ partner.desc | markdownify }}</div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</section>

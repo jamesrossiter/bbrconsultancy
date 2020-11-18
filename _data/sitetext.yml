@@ -1,139 +1,123 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to BBR Consultancy
+    text: Clear advice, <br/>practical solutions
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#whoweare" # "#{section}" or "URL/page link"
+
+whoweare:
+  banner: "assets/img/banner/greet-950-250.jpg"
+  title: "Who We Are"
+  text: "BBR Consultancy Ltd is a new, dynamic company focused on providing support to schools, government, government agencies and the education world in a dramatically changing educational landscape. We deliver guidance, mentoring, support and solutions to the many intractable problems that the 11 to 18 education sector faces while inspiring organisations and individuals to take professional risks as they seek to deliver tangible and improving outcomes.
+<br/><br/>
+         We offer to build an effective service by getting to know you through a structured understanding of your needs. Developing a clear picture of your requirements allows us to develop solutions with you that are used by you to deliver your objectives."
+  section: whoweare
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "What We Do"
+    text: "In the simplest terms we respond to the needs of individuals, schools, authorities, governments and government agencies. We apply our skills to focus on areas where our experience in education shows evidence of success"
+    section: whatwedo
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Partnership development"
+        desc: "We broker and facilitate partnerships of all kinds. Our emphasis is on the mutual benefit that collaboration brings to the development of all the organisations."
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
+      - title: "Policy development"
+        desc: "We support the development and implementation of policy through systems designed with you that are most effective for your organisation."
+        icon: fas fa-envelope-open-text
+      - title: "Communication development"
+        desc: "We devise and advise clients on communication strategies that can effectively use the many different options available to us in this digital age to deliver the messages that you want others to understand."
+        icon: fas fa-tty
+      - title: "Strategic review, planning and implementation"
+        desc: "We review existing programmes with you. We then support you as you turn the outcomes of the review into realistic plans and then implement them successfully. We find solutions to the most intractable issues."
+        icon: fas fa-chess-queen
+      - title: "Mentoring of school and college leaders and their teams"
+        desc: "We offer bespoke support and mentoring packages for school, academy and college leaders. The isolate nature of leadership is reduced by the opportunity to reflect and engage with us. Skills are developed and leaders supported with their own development."
+        icon: fas fa-hands-helping
+      - title: "Strengthening an organisation’s capacity to improve"
+        desc: "We will provide Interim Leadership or work alongside leadership and development teams sharing our skills and understanding so leaving you more able to develop independently."
+        icon: fas fa-dumbbell
+
+media:
+    title: "Media"
+    section: media
+    listArticles:
+      - title: "Staying Safe (SecEd, November 2011, p16)"
+        link: "http://bit.ly/rAsIMf"
+        desc: "We often talk to children about staying safe but we rarely urge teachers, and in particular new entrants to the profession, to stay safe. Former headteacher Brian Rossiter looks at two areas where difficulties can and do occur for staff – the use of social networks and the issue of allegations being made against adults in school."
+      - title: "The Importance of Developing Partnerships in This Swiftly Changing Educational Landscape (SecEd, March 2011)"
+        link: "http://www.sec-ed.co.uk/cgi-bin/go.pl/article/article.html?uid=82735"
+        desc: "With tightened budgets and a move towards academy status for a number of its schools, the collaboration of headteachers in the Bassetlaw area partnerships has never been more important."
+      - title: "The Development of a Partnership “Accord” Across the Bassetlaw District of North Nottinghamshire (Delivering Diplomas, p 25-24, September 2010)"
+        link: "http://content.yudu.com/A1n3za/DelDipV2N1/resources/index.htm"
+        desc: "With so many providers involved in local consortia, it is essential that everyone works together for the benefit of all. Headteacher Brian Rossiter discusses his consortium’s agreement to this end – the Bassetlaw Accord."
+      - title: "Outlining Effective Strategies for Inclusion (Leader Magazine – ASCL, December 2009)"
+        link: "http://archive.leadermagazine.co.uk/article.php?id=1546"
+        desc: "Valley School has remodelled its workforce to strengthen its ethos of total inclusion, for special needs students as well as those most at risk in society, and given non-teachers prominent roles in management. Brian Rossiter explains how it works."
+      - title: "Consortium: The TEAM Approach (Delivering Diplomas, p 22-23, September 2009)"
+        link: "http://content.yudu.com/A1gcez/DelDipAutV1N1/resources/index.htm"
+        desc: "Headteacher Brian Rossiter offers an account of the arrangements and structures his partnership has in place to deliver diplomas, and discusses some of the lessons they have learned."
+      - title: "Workforce Reform: Giving Support Teams a Voice (Secondary Headship, September 2008)"
+        link: "http://www.teachingexpertise.com/articles/workforce-reform-giving-support-teams-voice-4904"
+        desc: "Development changes in your workforce which make flexible use of vital support staff teams will do much to encourage school improvement in general, believes Brian Rossiter, headteacher of Valley School in Worksop."
+      - title: "Reflecting on a School Private Finance Initiative (PFI) (Secondary Headship, June 2008)"
+        link: "http://www.teachingexpertise.com/articles/benefits-school-private-finance-initiative-pfi-3899"
+        desc: "A private finance initiative (PFI) project can transform a school. Headteacher Brian Rossiter describes the final stages of his school’s project, the initial aim of which was to turn his school into an educational establishment for the future."
+      - title: "Reading Between the Lines (Leader Magazine – ASCL, September 2007)"
+        link: "http://archive.leadermagazine.co.uk/article.php?id=833"
+        desc: "Opponents claim the use of fingerprint and other biometric technology in schools risks infringing children’s civil liberties but their accusations are wide of the mark, argues ASCL member Brian Rossiter."
+      - title: "Working With The Media (Secondary Headship, April 2007)"
+        link: "http://www.teachingexpertise.com/articles/working-with-the-media-1873"
+        desc: "Schools’ relationships with the media are increasingly important. Brian Rossiter, headteacher of Valley School, Worksop, North Nottinghamshire describes his approach."
+      - title: "PFI: Preferring Not to be Unique (Secondary Headship, November 2005)"
+        link: "http://www.teachingexpertise.com/articles/pfi-not-unique-218"
+        desc: "In previous issues of Secondary Headship headteacher Brian Rossiter has described his experiences of PFI in the Bassetlaw district of North Nottinghamshire. In this article he describes the parallel development of a coordinated approach to delivering post-16 education across the area."
+      - title: "PFI: Not If, But When! (Secondary Headship, October 2005)"
+        link: "http://www.teachingexpertise.com/articles/pfi-207"
+        desc: "In our September issue headteacher Brian Rossiter described the first part of the PFI route to rebuild his and other schools in the Bassetlaw district – creating the vision for the project and meeting with the bidders. Here he shares his experience of the next steps towards making the vision a reality."
+      - title: "The PFI Roller Coaster (Secondary Headship, September 2005)"
+        link: "http://www.teachingexpertise.com/articles/pfi-roller-coaster-198"
+        desc: "Surplus places and rotting and inadequate building stock was a common experience for schools in the late 20th century. Here, Brian Rossiter, head of the Valley School in Worksop, Notts, describes the arduous PFI route he took to rebuild his school and other dilapidated schools in his district."
+    listImages:
+      - title: "A Collection of Images of the new Valley School Campus (2008)"
+        link: "http://www.valley.outwood.com/newschoolimages.htm"
+        desc: "Valley School – A Specialist Technology College."
+
+
+partners:
+    title: "Partners"
+    text: "BBR Consultancy has a strong focus on partnership working with clients. We also work alongside other consultancies and individuals. Where these consultancies working with us have a track record of delivering change and support to other organisations we consider them to be a Preferred Partner."
+    section: partners
+    list:
+      - title: "Collaboratives.co.uk"
+        link: "www.collaboratives.co.uk"
+        desc: "A group of experienced educational professionals who have come together to offer a range of support programmes for developing collaborations and partnership working."
+      - title: "Design for Education"
+        link: "www.designforeducation.co.uk"
+        desc: "Design for Education is one of the UK’s leading design agencies specialising in the education sector. Their main focus is helping schools to create a ‘brand identity’ in the most cost effective and efficient way possible."
+      - title: "HC Associates Ltd – HR solutions for schools"
+        link: "www.hcassociates.co.uk"
+        desc: "HC Associates Ltd are an HR consultancy business providing HR consultancy support and training to Schools/Academies and Children’s Services. They also offer a subscription based HR handbook that is constantly updated in line with changes to legislation and case law. This gives access to the complete set of up to date HR documents that you need in your HR toolkit."
+      - title: "Karen Ardley Associates"
+        link: "www.karenardley.com"
+        desc: "KAA is a dynamic, creative leadership and training consultancy. They design and deliver professional development programmes for leaders and people involved with providing or supporting learning, worldwide."
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text:
     section: portfolio
-    
 
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-          
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "If you would like to find out more about BBR Consultancy Ltd, the work that we do, or how we could support your further development please email:
+    <br/><br/>
+           [info@bbrconsultancy.co.uk](mailto:info@bbrconsultancy.co.uk)
+  <br/><br/>
+           Registered Address: 243 Dobcroft Road, Sheffield, S11 9LG
+           <br/>Company Registration Number: 7671139
+           <br/>Registered in England and Wales at: Companies House, Cardiff"
     section: contact
     
 footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

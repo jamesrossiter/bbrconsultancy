@@ -1,0 +1,16 @@
+<section class="page-section" id="{{ site.data.sitetext.whoweare.section | default: "whoweare" }}">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">{{ site.data.sitetext.whoweare.title | default: "Who we are" }}</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-10 mx-auto ">
+            <img class="img-fluid center" src="{{ site.data.sitetext.whoweare.banner }}" alt="">
+            <br/><br/>
+            <div class="large text-muted">{{ site.data.sitetext.whoweare.text | markdownify }}</div>
+        </div>
+    </div>
+</div>
+</section>
