@@ -7,7 +7,7 @@ header:
 whoweare:
   banner: "assets/img/banner/greet-950-250.jpg"
   title: "Who We Are"
-  text: "BBR Consultancy Ltd is a new, dynamic company focused on providing support to schools, government, government agencies and the education world in a dramatically changing educational landscape. We deliver guidance, mentoring, support and solutions to the many intractable problems that the 11 to 18 education sector faces while inspiring organisations and individuals to take professional risks as they seek to deliver tangible and improving outcomes.
+  text: "BBR Consultancy Ltd is a new, dynamic company focused on providing support to schools, government, government agencies and the education world in a dramatically changing educational landscape. We work with organisations across the U.K. and internationally, both face to face and virtually. We deliver guidance, mentoring, support and solutions to the many intractable problems that the 11 to 18 education sector faces while inspiring organisations and individuals to take professional risks as they seek to deliver tangible and improving outcomes.
 <br/><br/>
          We offer to build an effective service by getting to know you through a structured understanding of your needs. Developing a clear picture of your requirements allows us to develop solutions with you that are used by you to deliver your objectives."
   section: whoweare
@@ -33,7 +33,7 @@ services:
         desc: "We offer bespoke support and mentoring packages for school, academy and college leaders. The isolate nature of leadership is reduced by the opportunity to reflect and engage with us. Skills are developed and leaders supported with their own development."
         icon: fas fa-hands-helping
       - title: "Strengthening an organisation’s capacity to improve"
-        desc: "We will provide Interim Leadership or work alongside leadership and development teams sharing our skills and understanding so leaving you more able to develop independently."
+        desc: "We will provide Interim Leadership or work alongside leadership and development teams sharing our skills and understanding so leaving you more able to develop independently. We support the professional development of all sectors of the school community. Leadership training for senior and middle leaders and the development of teaching pedagogy form part of our core offer."
         icon: fas fa-dumbbell
 
 media:
@@ -76,17 +76,18 @@ media:
       - title: "The PFI Roller Coaster (Secondary Headship, September 2005)"
         link: "http://www.teachingexpertise.com/articles/pfi-roller-coaster-198"
         desc: "Surplus places and rotting and inadequate building stock was a common experience for schools in the late 20th century. Here, Brian Rossiter, head of the Valley School in Worksop, Notts, describes the arduous PFI route he took to rebuild his school and other dilapidated schools in his district."
-    listImages:
-      - title: "A Collection of Images of the new Valley School Campus (2008)"
-        link: "http://www.valley.outwood.com/newschoolimages.htm"
-        desc: "Valley School – A Specialist Technology College."
-
 
 partners:
     title: "Partners"
     text: "BBR Consultancy has a strong focus on partnership working with clients. We also work alongside other consultancies and individuals. Where these consultancies working with us have a track record of delivering change and support to other organisations we consider them to be a Preferred Partner."
     section: partners
     list:
+      - title: "Karen Ardley Associates"
+        link: "https://karenardley.com"
+        desc: "KAA is a dynamic, creative leadership and training consultancy. They design and deliver professional development programmes for leaders and people involved with providing or supporting learning, worldwide."
+      - title: "KAA online"
+        link: "https://karenardley.com/kaa-online"
+        desc: "KAA online is a complete professional learning platform with an extensive range of professional learning modules available for self or facilitated study."
       - title: "Collaboratives.co.uk"
         link: "http://www.collaboratives.co.uk"
         desc: "A group of experienced educational professionals who have come together to offer a range of support programmes for developing collaborations and partnership working."
@@ -96,9 +97,6 @@ partners:
       - title: "HC Associates Ltd – HR solutions for schools"
         link: "http://www.hcassociates.co.uk"
         desc: "HC Associates Ltd are an HR consultancy business providing HR consultancy support and training to Schools/Academies and Children’s Services. They also offer a subscription based HR handbook that is constantly updated in line with changes to legislation and case law. This gives access to the complete set of up to date HR documents that you need in your HR toolkit."
-      - title: "Karen Ardley Associates"
-        link: "https://karenardley.com"
-        desc: "KAA is a dynamic, creative leadership and training consultancy. They design and deliver professional development programmes for leaders and people involved with providing or supporting learning, worldwide."
 
 portfolio:
     title: "Portfolio"
