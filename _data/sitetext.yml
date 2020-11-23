@@ -106,6 +106,7 @@ portfolio:
     title: "Portfolio"
     text:
     section: portfolio
+    closebutton: "Close"
 
 contact:
     title: "Contact Us"

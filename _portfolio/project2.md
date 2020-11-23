@@ -6,7 +6,8 @@ caption:
   subtitle: 
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-thumbnail.jpg
 ---
-#### Former Chair, Board of Trustees, LEAP multi-academy Trust comprising 3, 11-18 Secondary academies
+#### Former Chair, Board of Trustees, LEAP multi-academy Trust comprising 3, 11-18 Secondary academies<br/><br/>
+
 #### The University of Nottingham
 Council Member – including supporting the development of the Nottingham University Samworth Academy.
 #### Nottinghamshire Education Business Alliance Board

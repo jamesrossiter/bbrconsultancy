@@ -6,7 +6,8 @@ caption:
   subtitle: 
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-thumbnail.jpg
 ---
-#### Governors with particular reference to strategic planning, medium/long term financial planning and monitoring in the context of a rapidly changing educational environment.
+#### Governors with particular reference to strategic planning, medium/long term financial planning and monitoring in the context of a rapidly changing educational environment<br/><br/>
+
 #### Initiating a £330m (“Real Value” project cost) Education & Leisure PFI project
 Creating and promoting a vision for education across Bassetlaw (and hence Valley School). This included the preparatory networking, commitment building and (2 phase) bidding support for PFI credits to deliver a full rebuild of Valley School, four other 11-18 schools, a 3-18 Special School and two post-16 Centres. The project includes two additional Leisure Centres for the district (RV ~£60m). To achieve this project I worked with many stakeholders including Governors, LEA/LA officers, elected Members, all nine secondary schools and other primaries in Bassetlaw, parents, community groups, the Local Authority, Education Committee, MPs, the Learning & Skills Council and Development Agencies.
 #### PFI Project Board
@@ -18,7 +19,8 @@ For both Valley and Portland Schools (the only two secondary schools in Worksop 
 #### Specialist Technology College status
 #### Complete remodelling of the whole school workforce on two occasions
 In 2005/06 under the Government “Workforce Reform” agenda where cover and invigilation were removed from teachers. In 2011 a full restructuring and reductions in staffing process designed to enable the school to weather the forthcoming tightening of budgets and prepare for Academy status.
-#### Performance Management for the whole workforce at Valley School and improving the quality of learning and teaching.
+#### Performance Management for the whole workforce at Valley School and improving the quality of learning and teaching<br/><br/>
+
 #### Valley ‘Family’ of Schools
 Member and former Chair of the Headteachers’ group.
 #### Bassetlaw Area Secondary Heads
