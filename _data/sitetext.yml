@@ -1,6 +1,6 @@
 header:
     title: Welcome to BBR Consultancy
-    text: Clear advice, <br/>practical solutions
+    text: Clear advice. <br/>Practical solutions.
     button: Tell Me More
     buttonlink: "#whoweare" # "#{section}" or "URL/page link"
 
