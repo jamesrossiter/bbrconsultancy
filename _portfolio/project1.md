@@ -1,11 +1,14 @@
 ---
-title: National
+title: National/International
 
 caption:
-  title: National
+  title: National/International
   subtitle: 
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
+#### International provider for continuing professional development for Senior and middle leaders in schools. eg. Kenya, Egypt, Nigeria, Frankfurt, Prague.
+Support/training delivered both on site and virtually.
+#### Writer on pedagogy for U.N.R.W.A.
 #### DfE & DCSF ‘Secondary Schools Headteacher Reference Group’ (11.2002 to 7.2011)
 Member of this advisory group hosted by the Director General of Schools engaging with the early development of Government policy, Ministers and Secretaries of State for Education. Targeted respondent for feedback on proposed national policy developments to Ministers & officials.
 #### DfE Consultation Workshops – School funding

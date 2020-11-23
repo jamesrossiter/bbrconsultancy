@@ -16,8 +16,8 @@ Led the development of the leadership/management and financial structures requir
 #### Brokering Academy status
 For both Valley and Portland Schools (the only two secondary schools in Worksop town) with a single sponsor to ensure co-ordinated development for Worksop secondary education into the future.
 #### Specialist Technology College status
-#### Complete remodelling of the whole school workforce
-On two occasions: In 2005/06 under the Government “Workforce Reform” agenda where cover and invigilation were removed from teachers. In 2011 a full restructuring and reductions in staffing process designed to enable the school to weather the forthcoming tightening of budgets and prepare for Academy status.
+#### Complete remodelling of the whole school workforce on two occasions
+In 2005/06 under the Government “Workforce Reform” agenda where cover and invigilation were removed from teachers. In 2011 a full restructuring and reductions in staffing process designed to enable the school to weather the forthcoming tightening of budgets and prepare for Academy status.
 #### Performance Management for the whole workforce at Valley School and improving the quality of learning and teaching.
 #### Valley ‘Family’ of Schools
 Member and former Chair of the Headteachers’ group.
