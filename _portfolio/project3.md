@@ -4,7 +4,7 @@ title: Local
 caption:
   title: Local
   subtitle: 
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: 
 ---
 #### Governors with particular reference to strategic planning, medium/long term financial planning and monitoring in the context of a rapidly changing educational environment<br/><br/>
 
