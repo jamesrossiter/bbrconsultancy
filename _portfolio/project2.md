@@ -4,7 +4,7 @@ title: Regional
 caption:
   title: Regional
   subtitle: 
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: 
 ---
 #### Former Chair, Board of Trustees, LEAP multi-academy Trust comprising 3, 11-18 Secondary academies<br/><br/>
 
