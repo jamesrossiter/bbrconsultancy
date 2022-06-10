@@ -4,7 +4,7 @@ title: National/International
 caption:
   title: National/International
   subtitle: 
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail:
 ---
 #### International provider for continuing professional development for Senior and middle leaders in schools. eg. Kenya, Egypt, Nigeria, Frankfurt, Prague
 Support/training delivered both on site and virtually.
